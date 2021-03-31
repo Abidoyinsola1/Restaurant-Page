@@ -2,7 +2,7 @@ import Navbar from './pages/navbar';
 import Home from './pages/home';
 import Menu from './pages/menu';
 import Contact from './pages/contact';
-// import Food from './food.jpg';
+import Food from './food.jpg';
 
 const content = document.getElementById('content');
 
@@ -21,3 +21,8 @@ const contactBtn = document.getElementById('contact');
 homeBtn.addEventListener('click', () => showPage(Home));
 menuBtn.addEventListener('click', () => showPage(Menu));
 contactBtn.addEventListener('click', () => showPage(Contact));
+
+// Cover Banner 
+
+const myImage = new Image();
+myImage.src = Food;
