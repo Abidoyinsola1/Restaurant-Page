@@ -16,7 +16,7 @@ const menu = () => {
   menuOneName.innerText = 'Jollof Rice';
   const menuOneDesc = document.createElement('div');
   menuOneDesc.className = 'card-text text-center';
-  menuOneDesc.innerText = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus earum in veniam, minus voluptatem id, architecto quod soluta debitis eius iusto porro adipisci? Perferendis iste, impedit soluta dolorum cum dolorem?';
+  menuOneDesc.innerText = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus earum in veniam, minus voluptatem id?';
 
   menuOne.appendChild(menuOneName);
   menuOne.appendChild(menuOneDesc);
@@ -29,7 +29,7 @@ const menu = () => {
   menuTwoName.innerText = 'Coconut Rice';
   const menuTwoDesc = document.createElement('div');
   menuTwoDesc.className = 'card-text text-center';
-  menuTwoDesc.innerText = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus earum in veniam, minus voluptatem id, architecto quod soluta debitis eius iusto porro adipisci? Perferendis iste, impedit soluta dolorum cum dolorem?';
+  menuTwoDesc.innerText = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus earum in veniam, minus voluptatem id?';
 
   menuTwo.appendChild(menuTwoName);
   menuTwo.appendChild(menuTwoDesc);
@@ -41,7 +41,7 @@ const menu = () => {
   menuThreeName.innerText = 'Fried Rice';
   const menuThreeDesc = document.createElement('div');
   menuThreeDesc.className = 'card-text text-center';
-  menuThreeDesc.innerText = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus earum in veniam, minus voluptatem id, architecto quod soluta debitis eius iusto porro adipisci? Perferendis iste, impedit soluta dolorum cum dolorem?';
+  menuThreeDesc.innerText = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus earum in veniam, minus voluptatem id?';
 
   menuThree.appendChild(menuThreeName);
   menuThree.appendChild(menuThreeDesc);
@@ -53,7 +53,7 @@ const menu = () => {
   menuFourName.innerText = 'Yam & Sauce';
   const menuFourDesc = document.createElement('div');
   menuFourDesc.className = 'card-text text-center';
-  menuFourDesc.innerText = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus earum in veniam, minus voluptatem id, architecto quod soluta debitis eius iusto porro adipisci? Perferendis iste, impedit soluta dolorum cum dolorem?';
+  menuFourDesc.innerText = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus earum in veniam, minus voluptatem id';
 
   menuFour.appendChild(menuFourName);
   menuFour.appendChild(menuFourDesc);
@@ -65,7 +65,7 @@ const menu = () => {
   menuFiveName.innerText = 'Yamarita';
   const menuFiveDesc = document.createElement('div');
   menuFiveDesc.className = 'card-text text-center';
-  menuFiveDesc.innerText = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus earum in veniam, minus voluptatem id, architecto quod soluta debitis eius iusto porro adipisci? Perferendis iste, impedit soluta dolorum cum dolorem?';
+  menuFiveDesc.innerText = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus earum in veniam, minus voluptatem id?';
 
   menuFive.appendChild(menuFiveName);
   menuFive.appendChild(menuFiveDesc);
@@ -77,7 +77,7 @@ const menu = () => {
   menuSixName.innerText = 'Yam Pottage';
   const menuSixDesc = document.createElement('div');
   menuSixDesc.className = 'card-text text-center';
-  menuSixDesc.innerText = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus earum in veniam, minus voluptatem id, architecto quod soluta debitis eius iusto porro adipisci? Perferendis iste, impedit soluta dolorum cum dolorem?';
+  menuSixDesc.innerText = 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus earum in veniam, minus voluptatem id?';
 
   menuSix.appendChild(menuSixName);
   menuSix.appendChild(menuSixDesc);
