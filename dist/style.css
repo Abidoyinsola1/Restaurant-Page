@@ -1,0 +1,49 @@
+body {
+  max-width: 1500px;
+  margin: auto;
+  background-image: url("/src/food.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: 80% 10%;
+}
+
+.nav-link li {
+  display: inline-block;
+}
+
+.nav-items {
+  padding: 10px 20px;
+  font-weight: 500;
+  font-size: 20px;
+  color: #fbac44;
+  text-decoration: none;
+}
+
+.nav-items:hover,
+.nav-items:active {
+  color: white;
+}
+
+.hometitle {
+  margin-top: 15%;
+  color: #fbac44;
+  font-size: 50px;
+}
+
+.card {
+  /* margin: 10px 0; */
+  width: 300px;
+  background-color: #fbac44;
+  color: white;
+}
+
+.item-container {
+  padding: 0 140px;
+}
+
+.address,
+.email,
+.phone {
+  color: #fbac44;
+  margin-top: 8%;
+}
