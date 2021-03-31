@@ -1,7 +1,7 @@
 body {
   max-width: 1500px;
   margin: auto;
-  background-image: url("food.jpg");
+  background-image: url("/src/food.jpg");
   background-repeat: no-repeat;
   background-size: 100%;
   background-position: 80% 10%;
