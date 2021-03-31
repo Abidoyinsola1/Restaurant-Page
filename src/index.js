@@ -22,7 +22,7 @@ homeBtn.addEventListener('click', () => showPage(Home));
 menuBtn.addEventListener('click', () => showPage(Menu));
 contactBtn.addEventListener('click', () => showPage(Contact));
 
-// Cover Banner 
+// Cover Banner
 
 const myImage = new Image();
 myImage.src = Food;
